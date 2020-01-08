@@ -41,6 +41,7 @@ export class AppComponent {
     const text = 'print text';
     this.printAll(text);
     console.log(this.title2, this.num2, this.all);
+
   }
 
 }
